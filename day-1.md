@@ -16,3 +16,4 @@ After day $d_1$, I completed $c^2$ practice tasks.
 $$
 p = \frac{c}{t} \times 100
 $$
+p is the final answer of the fraction, c is the numerator, and t is the denominator. For example, if c equals 100 and t equals50, p will equal 2.
