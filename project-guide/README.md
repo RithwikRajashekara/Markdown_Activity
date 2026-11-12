@@ -70,7 +70,7 @@ Go to branches, click on the current branch names, then add a new branch and giv
 
 ## Support
 
-If you have any issues, go to [issues] (https://github.com/RithwikRajashekara/Markdown_Activity/issues/new) <-- Link to issues page.
+If you have any issues, go to [Issues](https://github.com/RithwikRajashekara/Markdown_Activity/issues/new).
 
 ## License
 
