@@ -63,3 +63,15 @@ On GitHub, the same headings appear at different sizes and task markers become c
 | --- | --- |
 | [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
+
+## Contributing 
+
+Go to branches, click on the current branch names, then add a new branch and give it a name. 
+
+## Support
+
+If you have any issues, go to [issues] (https://github.com/RithwikRajashekara/Markdown_Activity/issues/new) 
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
