@@ -66,11 +66,11 @@ On GitHub, the same headings appear at different sizes and task markers become c
 
 ## Contributing 
 
-Go to branches, click on the current branch names, then add a new branch and give it a name. 
+Go to branches, click on the current branch names, then add a new branch and give it a name, and add a pull request.
 
 ## Support
 
-If you have any issues, go to [issues] (https://github.com/RithwikRajashekara/Markdown_Activity/issues/new) 
+If you have any issues, go to [issues] (https://github.com/RithwikRajashekara/Markdown_Activity/issues/new) <-- Link to issues page.
 
 ## License
 
