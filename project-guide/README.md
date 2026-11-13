@@ -85,4 +85,4 @@ This project is distributed under the [MIT License](../LICENSE). Read the licens
 
 ## Troubleshooting
 
-Page not loading -> Reload the page. 
+If the page is not loading even though WIFI is connected, then reload the page or reconnect the device.
