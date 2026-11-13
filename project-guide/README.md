@@ -82,3 +82,7 @@ This project is distributed under the [MIT License](../LICENSE). Read the licens
 - [x] Followed setup and usage instructions and compared the result.
 - [x] Tested Contents and file links and checked image alternative text.
 - [x] Verified contribution, support, and license information.
+
+## Troubleshooting
+
+Page not loading -> Reload the page. 
